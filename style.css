@@ -1,0 +1,9 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+:root {
+	padding: 20px 5vw;
+	background: #234;
+}
